@@ -3,10 +3,10 @@
 
 
 Homework 1
-https://youtu.be/BQTX3hrbk5E
+https://youtu.be/MPhh8kLANGA
 
 
-[![Video](https://img.youtube.com/vi/BQTX3hrbk5E/maxresdefault.jpg)](https://www.youtube.com/watch?v=BQTX3hrbk5E)
+[![Video](https://img.youtube.com/vi/MPhh8kLANGA/maxresdefault.jpg)](https://www.youtube.com/watch?v=MPhh8kLANGA)
 
 
 Homework 2
