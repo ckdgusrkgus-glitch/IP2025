@@ -16,4 +16,4 @@ https://youtu.be/04phfW9IriQ
 
 
 Homework 3
-<img src="./0_.jpg" width="100%" height="100%" title="QCQI Visualization" alt="QCQI Visualization"></img>
+<img src="./0_.png" width="100%" height="100%" title="QCQI Visualization" alt="QCQI Visualization"></img>
