@@ -10,9 +10,9 @@ https://youtu.be/uOJCLn-Qf5k
 
 
 Homework 2
-https://youtu.be/04phfW9IriQ
+https://youtu.be/zq2oSZWsOYA
 
-[![Video](https://img.youtube.com/vi/04phfW9IriQ/maxresdefault.jpg)](https://www.youtube.com/watch?v=04phfW9IriQ)
+[![Video](https://img.youtube.com/vi/zq2oSZWsOYA/maxresdefault.jpg)](https://www.youtube.com/watch?v=zq2oSZWsOYA)
 
 
 Homework 3
