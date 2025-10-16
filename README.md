@@ -18,3 +18,15 @@ https://youtu.be/zq2oSZWsOYA
 Homework 3
 
 <img src="./0_.png" width="100%" height="100%" title="QCQI Visualization" alt="QCQI Visualization"></img>
+
+
+Homework 4
+https://youtu.be/ZuBOibeSPIU
+
+[![Video](https://img.youtube.com/vi/ZuBOibeSPIU/maxresdefault.jpg)](https://www.youtube.com/watch?v=ZuBOibeSPIU)
+
+
+Homework 5
+https://youtu.be/CwZtl_mUjdo
+
+[![Video](https://img.youtube.com/vi/CwZtl_mUjdo/maxresdefault.jpg)](https://www.youtube.com/watch?v=CwZtl_mUjdo)
